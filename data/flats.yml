@@ -1,29 +1,29 @@
 vlad:
   owner_name: Vlad Mouton
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: images/dollar.png
+  owner_picture: images/vlad.jpg
   name: Nice cosy hamac under a bridge
   summary: Cheapest place in Brussels
   city: Brussels, Belgium
   wifi: true
-  ratings: 4/5
+  ratings: 5
 arno:
   owner_name: Arno Noar
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: images/card-brussels.jpeg
+  owner_picture: images/arno.jpg
   name: The most sexy-flat in Namur
   summary: The girls are not included
   city: Namur, Belgium
   wifi: true
-  ratings: 9/5
+  ratings: 5
 bragard:
   owner_name: Martin Bragette
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
-  name: Ancienne fabrication de bragettes
+  picture: images/card-london.jpeg
+  owner_picture: images/bragard.jpg
+  name: Ancienne usine de bragettes
   summary: Loft à grand charme
   city: Brussels, Belgium
   wifi: true
-  ratings: 2/5
+  ratings: 4
 
 
